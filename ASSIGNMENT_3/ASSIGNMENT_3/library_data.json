@@ -1,0 +1,19 @@
+{
+    "books": [
+        {
+            "isbn": "0-306-40615-2",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "quantity": 10
+        }
+    ],
+    "members": [
+        {
+            "member_id": "S001",
+            "name": "Rajan kumar yadav",
+            "email": "razeny84@gmail.com",
+            "borrowed_books": []
+        }
+    ],
+    "transactions": []
+}
